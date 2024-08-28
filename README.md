@@ -3,6 +3,10 @@
 ## Overview
 This project provides an analysis of Amazon Prime Video's industry growth from 1920 to 2021, focusing on both TV shows and movies. The dashboard, created with Power BI, offers insights into total titles, aggregate ratings, genres, directors, and the timeline covered.
 
+![WhatsApp Image 2024-08-28 at 11 41 03_24dcb106](https://github.com/user-attachments/assets/38930bec-2ef0-41fe-bb5c-999e0b75bac9)
+
+
+
 ## Dataset
 The dataset, sourced from Kaggle, includes information on Amazon Prime Video's movies and TV shows. Key statistics:
 - **Total Titles**: 9,655
